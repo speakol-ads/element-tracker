@@ -1,0 +1,24 @@
+{
+  "name": "element-tracker",
+  "version": "1.0.0",
+  "description": "Element Tracker =============== > Track an element load time during page load",
+  "main": "main.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "puppeteer": "^1.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speakol-ads/element-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/speakol-ads/element-tracker/issues"
+  },
+  "homepage": "https://github.com/speakol-ads/element-tracker#readme"
+}
