@@ -1,6 +1,6 @@
 Element Tracker
 ===============
-> Track an element load time during page load
+> Track an element load time after a page is loaded
 
 Installation
 ============
